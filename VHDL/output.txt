@@ -1,0 +1,9 @@
+Time is now 0 ns SUM = UUUU Cout = U
+Time is now 10 ns SUM = 1111 Cout = 0
+Time is now 20 ns SUM = 0111 Cout = 1
+Time is now 30 ns SUM = 0101 Cout = 0
+Time is now 40 ns SUM = 1000 Cout = 0
+Time is now 50 ns SUM = 1001 Cout = 0
+Time is now 60 ns SUM = 0111 Cout = 0
+Time is now 70 ns SUM = 0011 Cout = 1
+Time is now 80 ns SUM = 1011 Cout = 0
