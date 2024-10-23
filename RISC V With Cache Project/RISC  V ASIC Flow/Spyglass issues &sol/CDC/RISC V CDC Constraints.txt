@@ -1,0 +1,3 @@
+current_design RISCV
+clock -name clk -edge {"0" "5"} -period 10
+reset -name reset -value 0
